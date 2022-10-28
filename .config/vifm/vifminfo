@@ -1,0 +1,314 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/user/
+	..
+1666698591
+'b
+	/home/user/bin/
+	..
+1666698591
+'h
+	/home/user/
+	..
+1666698591
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/user
+	Downloads
+3
+d/home/user/Downloads
+	Music
+1
+d/home/user/Downloads/Music
+	..
+0
+d/home/user/Downloads
+	Video
+3
+d/home/user/Downloads/Video
+	..
+0
+d/home/user/Downloads
+	Video
+4
+d/home/user/Downloads/Video
+	..
+0
+d/home/user/Downloads
+	Video
+3
+d/home/user/.local/share/vifm/Trash
+	..
+0
+d/home/user/.local/share/vifm
+	Trash
+1
+d/home/user/.local/share
+	vifm
+4
+d/home/user/.local
+	share
+2
+d/home/user
+	Downloads
+3
+d/home/user/Downloads
+	Video
+3
+d/home/user/Downloads/Video
+	..
+0
+d/home/user/.local/share/vifm/Trash
+	..
+0
+d/home/user/.local/share/vifm
+	Trash
+1
+d/home/user/.local/share
+	vifm
+5
+d/home/user/.local
+	share
+2
+d/home/user
+	Downloads
+3
+d/home/user/Downloads
+	Video
+3
+d/home/user/Downloads/Video
+	..
+0
+d/home/user/Downloads
+	..
+0
+d/home/user
+	Videos
+9
+d/home/user/Videos
+	..
+0
+d/home/user
+	Pictures
+6
+d/home/user/Pictures
+	web
+6
+d/home/user/Pictures/web
+	IMG_20221026_090002_321.jpg
+3
+d/home/user/Pictures
+	web
+6
+d/home/user
+	Downloads
+3
+d/home/user/Downloads
+	Video
+3
+d/home/user/Downloads/Video
+	..
+0
+d/home/user/Downloads
+	Video
+3
+d/home/user
+	Videos
+9
+d/home/user/Videos
+	Animals 2021 BDRip
+1
+d/home/user
+	Downloads
+3
+d/home/user/Downloads
+	Video
+3
+d
+
+# Right window history (oldest to newest):
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	Video
+3
+D/home/user/Downloads/Video
+	..
+0
+D/home/user/Downloads
+	Music
+1
+D/home/user/Downloads/Music
+	..
+0
+D/home/user/Downloads
+	Video
+3
+D/home/user/Downloads/Video
+	..
+0
+D/home/user/Downloads
+	..
+0
+D/home/user
+	Music
+5
+D/home/user/Music
+	..
+0
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	..
+0
+D/home/user
+	Pictures
+6
+D/home/user/Pictures
+	Media
+1
+D/home/user/Pictures/Media
+	..
+0
+D/home/user/Pictures
+	..
+0
+D/home/user
+	Videos
+9
+D/home/user/Videos
+	..
+0
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	..
+0
+D/home/user
+	Pictures
+6
+D/home/user/Pictures
+	web
+4
+D/home/user/Pictures/web
+	..
+0
+D/home/user/Pictures
+	..
+0
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	..
+0
+D/home/user
+	Videos
+9
+D/home/user/Videos
+	Klerk
+1
+D/home/user/Videos/Klerk
+	..
+0
+D/home/user/Videos
+	..
+0
+D/home/user
+	Documents
+2
+D/home/user/Documents
+	..
+0
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	Video
+3
+D/home/user/Downloads/Video
+	..
+0
+D/home/user/Downloads
+	..
+0
+D/home/user
+	Videos
+9
+D/home/user/Videos
+	..
+0
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	Video
+3
+D/home/user/.local/share/vifm/Trash
+	..
+0
+D/home/user/.local/share/vifm
+	Trash
+1
+D/home/user/.local/share
+	vifm
+5
+D/home/user/.local
+	share
+2
+D/home/user
+	Downloads
+3
+D/home/user/Downloads
+	Video
+3
+D
+
+# Command line history (oldest to newest):
+:mkdir Media
+:mkdir herbstluftwm_pictures
+:mkdir Klerk
+:mkdir web
+:move
+:trashes
+:empty
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
