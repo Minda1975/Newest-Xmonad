@@ -13,3 +13,7 @@ This script must be run as super user (sudo). And for the best result, run this 
 The final product :)
 
 ![Screenshot](screen.png?raw=true "Colors")
+
+P.S.
+
+Also i added configuration file for Xmonad without xmobar (in main tree).
