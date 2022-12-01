@@ -1,51 +1,27 @@
-! XTerm
-XTerm*faceName:          -*-terminus-*-*-*-20-*-*-*-*-*-*-*
+xterm*faceName:          RobotoMono Nerd Font Mono
+xterm*faceSize:          12
 
-
-!UXTerm
-UXTerm*faceName: -*-terminus-*-*-*-20-*-*-*-*-*-*-*
-UXTerm*dynamicColors:      true
-UXTerm*utf8:               2
-UXTerm*eightBitInput:      true
-UXTerm*saveLines:          512
-UXTerm*scrollKey:          true
-UXTerm*scrollTtyOutput:    false
-UXTerm*scrollBar:          true
-UXTerm*rightScrollBar:     true
-UXTerm*jumpScroll:         true
-UXTerm*multiScroll:        true
-UXTerm*toolBar:            false
-
-URxvt.scrollBar: false
-urxvt.font: -*-terminus-*-*-*-20-*-*-*-*-*-*-*
-
-
-! hard contrast: *background: #1d2021
-*background: #282828
-! soft contrast: *background: #32302f
-*foreground: #ebdbb2
-! Black + DarkGrey
-*color0:  #282828
-*color8:  #928374
-! DarkRed + Red
-*color1:  #cc241d
-*color9:  #fb4934
-! DarkGreen + Green
-*color2:  #98971a
-*color10: #b8bb26
-! DarkYellow + Yellow
-*color3:  #d79921
-*color11: #fabd2f
-! DarkBlue + Blue
-*color4:  #458588
-*color12: #83a598
-! DarkMagenta + Magenta
-*color5:  #b16286
-*color13: #d3869b
-! DarkCyan + Cyan
-*color6:  #689d6a
-*color14: #8ec07c
-! LightGrey + White
-*color7:  #a89984
-*color15: #ebdbb2
-
+! Blacks
+xterm*color0:           #151515
+xterm*color8:           #505450
+! Reds
+xterm*color1:           #a60101
+xterm*color9:           #f99090
+! Greens
+xterm*color2:           #026802
+xterm*color10:          #a7e14b
+! Yellows
+xterm*color3:           #ab6e03
+xterm*color11:          #fddc01
+! Blues
+xterm*color4:           #4a5463
+xterm*color12:          #7d8794
+! Purples
+xterm*color5:           #9c3885
+xterm*color13:          #e628ba
+! Cyans
+xterm*color6:           #08bab0
+xterm*color14:          #74fff7
+! Whites
+xterm*color7:           #bbbbbb
+xterm*color15:          #ffffff
