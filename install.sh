@@ -3,7 +3,7 @@
 # Install packages after installing base Debian with no GUI
 
 # xorg display server installation and wm
-sudo apt install -y xorg xterm termit dunst kitty suckless-tools
+sudo apt install -y xorg xterm termit dunst kitty suckless-tools gmrun
 
 # Microcode for Intel/AMD
 # sudo apt install -y amd-microcode
@@ -19,7 +19,7 @@ sudo apt install -y dialog mtools dosfstools avahi-daemon
 sudo apt install -y neofetch bpytop lm-sensors
 
 # Various utilities
-sudo apt install -y feh scrot imagemagick maim lxappearance arc-theme gnome-icon-theme rar unrar zip unzip p7zip-full p7zip-rar
+sudo apt install -y feh scrot imagemagick flameshot lxappearance arc-theme gnome-icon-theme rar unrar zip unzip p7zip-full p7zip-rar fzf
 
 # Printing and bluetooth (if needed)
 sudo apt install -y cups
@@ -28,7 +28,7 @@ sudo apt install -y cups
 sudo apt install -y firefox-esr
 
 # Aditional packages
-sudo apt install -y zathura zathura-djvu  simple-scan
+sudo apt install -y zathura zathura-djvu  simple-scan trayer
 
 # Install fonts
 sudo apt install -y fonts-font-awesome fonts-ubuntu fonts-liberation2 fonts-liberation xfonts-terminus fonts-jetbrains-mono
